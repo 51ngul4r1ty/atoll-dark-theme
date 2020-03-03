@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "atoll-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Atoll Dark Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a VS Code theme that was developed while working on the Atoll project (an open-source agile
+project manager - see atoll-core and atoll-shared if you're curious).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![how it looks](https://raw.githubusercontent.com/51ngul4r1ty/atoll-dark-theme/master/docs/images/atoll-dark-theme.png)
 
-**Enjoy!**
